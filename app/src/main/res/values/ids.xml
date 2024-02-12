@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <item name="editTextUsername" type="id">123</item>-->
+<!--    <item name="editTextUsername" type="id">123</item>-->
+    <item name="editTextPassword" type="id">1234</item>
+    <item name="buttonLogin" type="id">1</item>
+    <item name="textViewResult" type="id">245</item>
+</resources>
